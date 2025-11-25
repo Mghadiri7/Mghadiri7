@@ -60,7 +60,7 @@ Here are some of my key projects demonstrating end-to-end ML pipelines and deep 
 
 ### 📊 GitHub Stats
 
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mghadiri7&show_icons=true&theme=radical)
+![Mohammad's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mghadiri7&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mghadiri7&layout=compact&theme=radical)
 
 ---
