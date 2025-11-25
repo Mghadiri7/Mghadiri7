@@ -67,6 +67,6 @@ Here are some of my key projects demonstrating end-to-end ML pipelines and deep 
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [Mohammad Ghadiri](https://www.linkedin.com/in/mohammad-ghadiri-57956b34a)
+* **LinkedIn:** [Mohammad Ghadiri](https://www.linkedin.com/in/mghadiri7)
 * **Email:** [ghmohammad777@gmail.com](mailto:ghmohammad777@gmail.com)
-* **LeetCode:** [My Profile](https://leetcode.com/u/MGH7/)
+* **LeetCode:** [My Profile](https://leetcode.com/u/Mghadiri7/)
