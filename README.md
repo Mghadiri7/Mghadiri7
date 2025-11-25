@@ -43,12 +43,12 @@ I am a passionate **ML Engineer** and **Data Scientist** with an M.Sc. in Comput
 
 Here are some of my key projects demonstrating end-to-end ML pipelines and deep learning implementations:
 
-📌 **[Fashion-MNIST Classifier (Deep Learning)](LINK_TO_YOUR_REPO)**
+📌 **[Fashion-MNIST Classifier (Deep Learning)](https://github.com/Mghadiri7/TensorFlow-PyTorch-Gallery/tree/main/Convolutional%20Neural%20Networks%20(CNNs)%20with%20TensorFlow)**
 * Built a CNN classifier achieving **~92% accuracy**.
 * Implemented **Batch Normalization, Dropout**, and Learning Rate Scheduling.
 * *Tech:* TensorFlow, Keras, CNN.
 
-📌 **[Classical ML Algorithms from Scratch](LINK_TO_YOUR_REPO)**
+📌 **[Classical ML Algorithms from Scratch](https://github.com/Mghadiri7/Machine_Learning)**
 * Implemented core algorithms (**SVM, KNN, Decision Trees, K-Means**) using pure Python & NumPy.
 * Demonstrates deep understanding of the mathematics behind ML.
 
